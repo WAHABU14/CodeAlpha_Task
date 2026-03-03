@@ -17,8 +17,6 @@
 ## Job Board Platform 
 ### Set up backend using Django to handle job listings, employers, candidates and applications. 
 ### Design database models for employers, job listings, candidates, resumes, and job applications. 
-### Build API endpoints for posting jobs, searching jobs, uploading resumes, applying for jobs, and tracking 
-applications. 
-### Implement logic for job search filters, resume uploads, application status updates, and employer 
-notifications. 
+### Build API endpoints for posting jobs, searching jobs, uploading resumes, applying for jobs, and tracking applications. 
+### Implement logic for job search filters, resume uploads, application status updates, and employer notifications. 
 ### Optional: Add admin panel and reporting features like application statistics and user management. 
